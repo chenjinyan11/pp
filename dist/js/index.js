@@ -1,0 +1,1 @@
+function aa(o,l){console.log(o),console.log(l)}console.log("aaa"),console.log("bbb"),console.log("ccc");
